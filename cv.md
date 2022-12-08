@@ -24,3 +24,13 @@ in web developing to help company with creating great web applications.
 - GULP
 - WebPack
 - Figma, Avocode, Photoshop
+
+## Education:
+- Ukrainian Engineering Academy (Kharkov)
+- Udemy
+  + [WEB-разработчик 2022](https://www.udemy.com/course/webdeveloper/)
+  + [Курс по JavaScript + React](https://www.udemy.com/course/javascript_full/)
+- Self-learning
+
+## Languages:
+- English: B1
