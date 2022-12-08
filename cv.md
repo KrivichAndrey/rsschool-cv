@@ -2,10 +2,10 @@
 
 ## Contacts:
 
-* __Phone:__ +380 63 567 18 46
-* __Email:__ criwi4.andrey@gmail.com
-* __Telegram:__ https://t.me/Andrey_Krivich
-* __GitHub:__ https://github.com/KrivichAndrey
+* __Phone:__ [+380 63 567 18 46](+380635671846)
+* __Email:__ [criwi4.andrey@gmail.com](criwi4.andrey@gmail.com)
+* __Telegram:__ [ https://t.me/Andrey_Krivich]( https://t.me/Andrey_Krivich)
+* __GitHub:__ [https://github.com/KrivichAndrey](https://github.com/KrivichAndrey)
 
 ## About myself:
 
