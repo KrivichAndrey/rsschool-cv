@@ -1,0 +1,1 @@
+https://KrivichAndrey.github.io/rsschool-cv/
